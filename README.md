@@ -12,7 +12,7 @@ Haze adversely degrades quality of an image thereby affecting its aesthetic appe
 	@inproceedings{dehaze_zhang_2018w,		
 	  title={Multi-scale Single Image Dehazing using Perceptual Pyramid Deep Network},
 	  author={Zhang, He and Sindagi, Vishwanath and Patel, Vishal M},
-	  booktitle={CVPR Workshop},
+	  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
 	  year={2018}
 	} 
 
