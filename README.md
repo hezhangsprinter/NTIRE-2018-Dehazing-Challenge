@@ -1,4 +1,4 @@
-## Multi-scale Single Image Dehazing using Perceptual Pyramid Deep Network (CVPRw'2018-NTIRE-2018-Dehazing-Challenge)
+## Multi-scale Single Image Dehazing using Perceptual Pyramid Deep Network (NTIRE-2018-Dehazing-Challenge)
 [He Zhang](https://sites.google.com/site/hezhangsprinter), [Vishwanath Sindagi](http://www.vishwanathsindagi.com/), [Vishal M. Patel](http://www.rci.rutgers.edu/~vmp93/)
 
 [[Paper Link](https://arxiv.org/abs/1803.08396)] (CVPRw'18)
