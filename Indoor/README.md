@@ -1,6 +1,7 @@
 
 This is the testing code from Rutgers Unviersity for the NTIRE-2018 Image Dehazing Chanllenge;
-This is for Track(Indoor)
+
+This is for Track (Indoor)
 
 Authors: He Zhang (he.zhang92@rutgers.edu); Vishwanath Sindagi (vishwanath.sindagi@rutgers.edu); Vishal M. Patel (vishal.m.patel@rutgers.edu);
 
