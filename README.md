@@ -1,6 +1,7 @@
 # NTIRE-2018-Dehazing-Challenge
 Pytorch implementation of "Multi-scale Single Image Dehazing using Perceptual Pyramid Deep Network"
 
+And this method rank 1st in the indoor track and 3rd in the outdoor track. 
 
 
 All the codes can be also be found in the following link
