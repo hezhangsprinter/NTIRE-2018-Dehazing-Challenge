@@ -19,6 +19,8 @@ Haze adversely degrades quality of an image thereby affecting its aesthetic appe
 
 And this method rank 1st in the indoor track and 3rd in the outdoor track in [NTIRE-2018 Dehazing Challenge](http://www.vision.ee.ethz.ch/en/ntire18/) (CVPRw'18). 
 
+Install pytorch with 0.3.x rather than the latest 0.4.x version.
+
 
 All the codes can be also be found in the following link
 https://drive.google.com/drive/folders/1BjJDM7qCdgqSR356PHcSUi_6fWclrGad?usp=sharing
